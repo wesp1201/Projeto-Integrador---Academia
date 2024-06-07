@@ -24,12 +24,14 @@ autores: Weslley Moreira, Vinicius Nascimento, Gustavo Pinheiro, Vitor Bergami
 
 ![APP-GET](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/IMC.png)
 
+![QRcode-Taxa de Gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/app-taxa.png)
+
 ![Taxa de gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura.png)
 
 ![Taxa de gordura 2](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura2.png)
 
 ![Rodapé](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/rodape.png)
 
-![QRcode-Taxa de Gordura]()
+
 
 
