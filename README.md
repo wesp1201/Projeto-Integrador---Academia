@@ -22,7 +22,7 @@ autores: Weslley Moreira, Vinicius Nascimento, Gustavo Pinheiro, Vitor Bergami
 
 ![QRcode-IMC](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/9.png)
 
-![APP-GET](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/IMC.png)
+![APP-GET]()
 
 ![QRcode-Taxa de Gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/app-taxa.png)
 
