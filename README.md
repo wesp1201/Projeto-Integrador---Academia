@@ -22,6 +22,7 @@ Aqui você poderá conhecer os recursos da academia, que oferece treinos especí
 
 
 # Nossos planos e descontos
+Conheça nossos planos e descontos: oferecemos uma variedade de opções de adesão que atendem às diferentes necessidades de nossos membros. Além de planos personalizados, dispomos de descontos especiais para pacotes de longo prazo e promoções exclusivas na musculação, zumba e boxe. Nossa academia está comprometida em proporcionar o melhor custo-benefício, incentivando a prática regular de atividades físicas e o bem-estar de todos.
 ![Planos](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/4.png)
 ![Planos 1](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/plano.png)
 ![Planos 2](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/plano2.png)
