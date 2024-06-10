@@ -14,7 +14,7 @@ Nesta seção, você poderá conhecer mais sobre nossa academia, explorando noss
 ![Recursos da Academia](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/3.png)
 
 
-# Nossos lanos e descontos
+# Nossos planos e descontos
 ![Planos](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/4.png)
 
 ![Planos 1](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/plano.png)
