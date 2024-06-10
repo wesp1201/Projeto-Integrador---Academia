@@ -30,14 +30,17 @@ Conheça nossos planos e descontos: oferecemos uma variedade de opções de ades
 
 
 # Blog
+Nesta parte, explore nosso blog para se manter informado sobre as últimas notícias e comentários relacionados à FluxoFitness. Aqui, compartilhamos insights valiosos, eventos emocionantes e novidades sobre nossa academia.
 ![Ultimas postagens](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/5.png)
 
 
 
 # Desenvolvimento sustentável
+Os Objetivos de Desenvolvimento Sustentável (ODS) são uma série de metas globais estabelecidas pelas Nações Unidas com o objetivo de abordar os desafios sociais, econômicos e ambientais mais urgentes do mundo. Cada um dos 17 ODS aborda uma área específica de desenvolvimento sustentável, visando alcançar um futuro mais próspero e equitativo para todos.
 ![ODS](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/6.png)
+O ODS 11, "Cidades e Comunidades Sustentáveis", tem como foco tornar as cidades mais inclusivas, seguras, resilientes e sustentáveis. Isso inclui promover o acesso equitativo a espaços verdes e seguros, melhorar o planejamento urbano e a gestão de resíduos, fortalecer a resiliência a desastres naturais e garantir o acesso universal a serviços básicos, como moradia adequada, transporte público e infraestrutura.
 ![ODS1](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/7.png)
-
+Já o ODS 17, "Parcerias e Meios de Implementação", reconhece que a realização dos demais ODS requer a colaboração de diversos setores da sociedade, incluindo governos, setor privado, sociedade civil e comunidade internacional. Este objetivo visa fortalecer as parcerias globais para o desenvolvimento sustentável, promovendo o intercâmbio de conhecimento, tecnologia e recursos financeiros, além de apoiar países em desenvolvimento na implementação efetiva dos ODS.
 
 
 # Ajude o nosso planeta
