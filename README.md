@@ -47,17 +47,20 @@ Em resumo, os ODS 11 e 17 são essenciais para promover o desenvolvimento susten
 
 
 # Ajude o nosso planeta
+Em resumo, a colaboração entre academias e esforços de conservação ambiental pode criar uma sinergia positiva que beneficia tanto as pessoas quanto o planeta. Ao promover práticas sustentáveis, educar sobre questões ambientais e apoiar iniciativas de preservação, as academias podem desempenhar um papel fundamental na construção de um futuro mais saudável e sustentável para todos.
 ![ECO](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/8.png)
 
 
 
 # APP GET - Gasto energético total
+Este código QR direciona diretamente para o nosso aplicativo de Gasto Energético Total (APP - GET), onde você poderá avaliar o estado da sua saúde e bem-estar. Através dele, você terá acesso a informações valiosas sobre o seu nível de atividade física e o impacto na sua qualidade de vida.
 ![QRcode-IMC](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/9.png)
 ![APP-GET]()
 
 
 
 # APP Calculo de taxa de gordura
+Este QR code direciona diretamente para o nosso aplicativo de Taxa de Gordura, onde você poderá avaliar sua composição corporal e acompanhar seu progresso em direção a uma vida mais saudável. Através dele, você terá acesso a informações detalhadas sobre sua taxa de gordura corporal e dicas para alcançar seus objetivos de saúde e bem-estar.
 ![QRcode-Taxa de Gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/app-taxa.png)
 ![Taxa de gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura.png)
 ![Taxa de gordura 2](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura2.png)
@@ -65,6 +68,7 @@ Em resumo, os ODS 11 e 17 são essenciais para promover o desenvolvimento susten
 
 
 # Rodapé
+E por fim chegamos ao final do site, onde aqui se encontra nossas redes sociais e meios de contatos  
 ![Rodapé](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/rodape.png)
 
 
