@@ -56,7 +56,7 @@ Em resumo, a colaboração entre academias e esforços de conservação ambienta
 Este código QR direciona diretamente para o nosso aplicativo de Gasto Energético Total (APP - GET), onde você poderá avaliar o estado da sua saúde e bem-estar. Através dele, você terá acesso a informações valiosas sobre o seu nível de atividade física e o impacto na sua qualidade de vida.
 ![QRcode-IMC](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/9.png)
 No site, encontram-se campos de entrada para coletar informações específicas, tais como idade, peso e altura. Em seguida, solicitamos o sexo do usuário e, por último, o nível de atividade física. Esses dados são fundamentais para personalizar e oferecer uma experiência mais precisa e adaptada às necessidades individuais de cada usuário.
-Em seguida, o sistema calculará o seu Índice de Massa Corporal (IMC) e a sua Frequência Cardíaca Máxima (FCM). Posteriormente, fornecerá uma estimativa da quantidade diária de calorias necessárias para manter uma saúde e forma física adequadas. Essas informações são valiosas para ajudar a promover um estilo de vida saudável e equilibrado.
+Em seguida, o sistema calculará o seu Índice de Massa Corporal (IMC) e a sua Frequência Cardíaca Máxima (FCM). Posteriormente, fornecerá uma estimativa da quantidade diária de calorias necessárias para manter uma saúde e forma física adequadas. Essas informações são valiosas para ajudar a promover um estilo de vida saudável
 ![APP-GET](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/APP-GETT.png)
 
 
