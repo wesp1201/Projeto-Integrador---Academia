@@ -68,7 +68,7 @@ Este QR code direciona diretamente para o nosso aplicativo de Taxa de Gordura, o
 
 
 # Rodapé
-E por fim chegamos ao final do site, onde aqui se encontra nossas redes sociais e meios de contatos  
+E para encerrar, chegamos à seção final do nosso site, onde disponibilizamos nossas redes sociais e informações de contato, além do nosso endereço de email para comunicação direta. Estamos à disposição para atendê-lo e esclarecer quaisquer dúvidas que possam surgir. Agradecemos pela visita e esperamos poder auxiliá-lo em sua jornada em direção ao bem-estar e à saúde. 
 ![Rodapé](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/rodape.png)
 
 
