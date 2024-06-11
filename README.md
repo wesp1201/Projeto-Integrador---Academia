@@ -64,7 +64,10 @@ Em seguida, o sistema calculará o seu Índice de Massa Corporal (IMC) e a sua F
 # APP Calculo de taxa de gordura
 Este QR code direciona diretamente para o nosso aplicativo de Taxa de Gordura, onde você poderá avaliar sua composição corporal e acompanhar seu progresso em direção a uma vida mais saudável. Através dele, você terá acesso a informações detalhadas sobre sua taxa de gordura corporal e dicas para alcançar seus objetivos de saúde e bem-estar.
 ![QRcode-Taxa de Gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/app-taxa.png)
+No site, encontram-se campos de entrada para coletar informações específicas, tais como idade, peso, altura, peitoral, bíceps, tríceps e abdominal e etc. Em seguida, solicitamos o sexo do usuário e, por último, o nível de atividade física. Esses dados são fundamentais para personalizar e oferecer uma experiência mais precisa e adaptada às necessidades individuais de cada usuário.
+Com base nessas informações, o sistema calculará a sua Taxa de Gordura Corporal. Essas informações são valiosas para ajudar a promover um estilo de vida saudável e equilibrado.
 ![Taxa de gordura](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura.png)
+Logo abaixo, apresentamos uma tabela com a porcentagem de gordura corporal para homens e mulheres, permitindo que você verifique em qual faixa se encontra a sua taxa de gordura.
 ![Taxa de gordura 2](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/TaxadeGordura2.png)
 
 
