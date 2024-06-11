@@ -55,7 +55,7 @@ Em resumo, a colaboração entre academias e esforços de conservação ambienta
 # APP GET - Gasto energético total
 Este código QR direciona diretamente para o nosso aplicativo de Gasto Energético Total (APP - GET), onde você poderá avaliar o estado da sua saúde e bem-estar. Através dele, você terá acesso a informações valiosas sobre o seu nível de atividade física e o impacto na sua qualidade de vida.
 ![QRcode-IMC](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/9.png)
-![APP-GET]()
+![APP-GET](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/APP-GETT.png)
 
 
 
