@@ -73,6 +73,12 @@ Este QR code direciona diretamente para o nosso aplicativo de Taxa de Gordura, o
 E para encerrar, chegamos à seção final do nosso site, onde disponibilizamos nossas redes sociais e informações de contato, além do nosso endereço de email para comunicação direta. Estamos à disposição para atendê-lo e esclarecer quaisquer dúvidas que possam surgir. Agradecemos pela visita e esperamos poder auxiliá-lo em sua jornada em direção ao bem-estar e à saúde. 
 ![Rodapé](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/rodape.png)
 
+Aqui disponibilizamos nosso campo de e-mail, por meio do qual você poderá entrar em contato conosco através do nosso site.
+![Email](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/EMAIL.png)
+Após o envio da sua mensagem, uma tela de confirmação será exibida indicando que sua mensagem foi enviada com sucesso. Para retornar ao nosso site, basta clicar no botão 'Go Back', que o redirecionará de volta à página do campo de e-mail, permitindo o envio de novas mensagens.
+![Go Back](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/GO%20BACK.png)
+
+
 
 
 
