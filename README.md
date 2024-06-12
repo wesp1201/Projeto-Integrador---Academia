@@ -90,8 +90,11 @@ Após o envio da sua mensagem, uma tela de confirmação será exibida indicando
 
 
 # Sistema de cadastro e matricula de aluno 
+Temos também um sistema exclusivo da FluxoFitness para cadastro e matrícula de alunos.
 ![sistema 1](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/cadastro1.png)
+Aqui apresentamos a tela de cadastro para novos alunos, onde são preenchidos os dados pessoais necessários para efetivar a matrícula na FluxoFitness.
 ![sistema 2](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/cadastro2.png)
+Para confirmação, exibimos esta tela para verificar se os dados foram corretamente cadastrados em nosso banco de dados. Aqui podemos ver todos os alunos cadastrados
 ![sistema 3](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/cadastro3.png)
 
 
