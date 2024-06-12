@@ -1,5 +1,11 @@
 # Projeto-Integrador-Academia
-Autores: Weslley Moreira, Vinicius Nascimento, Gustavo Pinheiro, Vitor Bergami
+Este é o Projeto Integrador do curso Técnico em Informática do Senac Tatuapé, no qual aplicamos todas as tecnologias ensinadas ao longo do curso. Desenvolvemos um site para academia e dois aplicativos: um para calcular o IMC e outro para calcular a taxa de gordura corporal. A distribuição do site e dos aplicativos é gratuita, estando disponível para download e utilização.
+
+Integrantes do grupo:
+Weslley Moreira,
+Vinicius Nascimento,
+Gustavo Pinheiro, 
+Vitor Bergami
 
 
 
