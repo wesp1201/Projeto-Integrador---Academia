@@ -1,5 +1,5 @@
 # Projeto-Integrador-Academia
-Este é o Projeto Integrador do curso Técnico em Informática do Senac Tatuapé, no qual aplicamos todas as tecnologias ensinadas ao longo do curso. Desenvolvemos um site para academia e dois aplicativos: um para calcular o IMC e outro para calcular a taxa de gordura corporal. A distribuição do site e dos aplicativos é gratuita, estando disponível para download e utilização.
+Este é o Projeto Integrador do curso Técnico em Informática do Senac Tatuapé, no qual aplicamos todas as tecnologias ensinadas ao longo do curso. Desenvolvemos um site para academia e dois aplicativos: um para calcular o IMC e outro para calcular a taxa de gordura corporal, alem de um sistema de cadastro e matriculas de alunos. A distribuição do site e dos aplicativos é gratuita, estando disponível para download e utilização.
 
 Integrantes do grupo:
 Weslley Moreira,
@@ -87,6 +87,11 @@ Aqui disponibilizamos nosso campo de e-mail, por meio do qual você poderá entr
 Após o envio da sua mensagem, uma tela de confirmação será exibida indicando que sua mensagem foi enviada com sucesso. Para retornar ao nosso site, basta clicar no botão 'Go Back', que o redirecionará de volta à página do campo de e-mail, permitindo o envio de novas mensagens.
 ![Go Back](https://github.com/wesp1201/Projeto-Integrador---Academia/blob/main/img-readme/GOBACK.png)
 
+
+
+![sistema 1]()
+![sistema 2]()
+![sistema 3]()
 
 
 
